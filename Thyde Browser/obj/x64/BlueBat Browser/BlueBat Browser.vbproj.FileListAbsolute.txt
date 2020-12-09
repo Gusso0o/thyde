@@ -1,0 +1,15 @@
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\bin\x64\BlueBat Browser\BlueBat Browser.exe.config
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\bin\x64\BlueBat Browser\BlueBat Browser.exe.manifest
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\bin\x64\BlueBat Browser\BlueBat Browser.application
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\bin\x64\BlueBat Browser\BlueBat Browser.exe
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.vbprojAssemblyReference.cache
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat_Browser.Form1.resources
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat_Browser.Form2.resources
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat_Browser.Resources.resources
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat_Browser.UserControl1.resources
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.vbproj.GenerateResource.cache
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.vbproj.CoreCompileInputs.cache
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.TrustInfo.xml
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.exe.manifest
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.application
+C:\Users\mguss\source\repos\BlueBat Browser\BlueBat Browser\obj\x64\BlueBat Browser\BlueBat Browser.exe
